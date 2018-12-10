@@ -1,4 +1,4 @@
-package muhammadyusup.com.sigudang;
+package com.uas_android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("muhammadyusup.com.sigudang", appContext.getPackageName());
+        assertEquals("com.uas_android", appContext.getPackageName());
     }
 }

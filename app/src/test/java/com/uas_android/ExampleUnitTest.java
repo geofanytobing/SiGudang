@@ -1,4 +1,4 @@
-package muhammadyusup.com.sigudang;
+package com.uas_android;
 
 import org.junit.Test;
 
